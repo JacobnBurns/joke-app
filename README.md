@@ -21,7 +21,7 @@ To run this project locally:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/joke-app.git
+git clone https://github.com/JacobnBurns/joke-app.git
 Open index.html in your browser to start the app.
 📜 Code Snippet
 Here’s a sample of the JavaScript that fetches a new joke from JokeAPI:
